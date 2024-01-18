@@ -13,7 +13,7 @@ const Home = () => {
                 <Container className="home-box" maxWidth={'md'} style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                     <div className='topic'>Welcome to Car Dealership App</div>
                 </Container>
-                <Button href='./billing' style={{ position: 'absolute', top: '60vh', left: '45vw' }} variant='contained' >Deal Cars </Button>
+                <Button href='https://car-billing-app.vercel.app' style={{ position: 'absolute', top: '60vh', left: '45vw' }} variant='contained' >Deal Cars </Button>
 
             </div>
         </div>
